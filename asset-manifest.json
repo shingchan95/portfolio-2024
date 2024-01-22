@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-2024/static/css/main.bacc397b.css",
+    "main.js": "/portfolio-2024/static/js/main.f2cecf76.js",
+    "static/js/787.cfca8995.chunk.js": "/portfolio-2024/static/js/787.cfca8995.chunk.js",
+    "static/media/weather-forecast-ss.png": "/portfolio-2024/static/media/weather-forecast-ss.ea0d93f053d828b3c92e.png",
+    "static/media/profile-pic.jpeg": "/portfolio-2024/static/media/profile-pic.74c1a8b56ed0b2b9e7d5.jpeg",
+    "static/media/readme-generator-ss.png": "/portfolio-2024/static/media/readme-generator-ss.c94e58e4adbac81f69f5.png",
+    "static/media/project-bank-heist-ss.png": "/portfolio-2024/static/media/project-bank-heist-ss.ed93662d8218d038a5ef.png",
+    "static/media/budget-me-ss.png": "/portfolio-2024/static/media/budget-me-ss.e573e7d79f6511e2189d.png",
+    "static/media/the-tech-blog-ss.jpeg": "/portfolio-2024/static/media/the-tech-blog-ss.f2e730ef744b85c68974.jpeg",
+    "static/media/hello-world-ss.jpeg": "/portfolio-2024/static/media/hello-world-ss.f2f8a04b149966087d4b.jpeg",
+    "static/media/x.png": "/portfolio-2024/static/media/x.d7301b950ec8c8919ef9.png",
+    "static/media/computer.png": "/portfolio-2024/static/media/computer.14965bf6dc167b317fab.png",
+    "static/media/book.png": "/portfolio-2024/static/media/book.5c0918ee6b8ea22e8719.png",
+    "index.html": "/portfolio-2024/index.html",
+    "main.bacc397b.css.map": "/portfolio-2024/static/css/main.bacc397b.css.map",
+    "main.f2cecf76.js.map": "/portfolio-2024/static/js/main.f2cecf76.js.map",
+    "787.cfca8995.chunk.js.map": "/portfolio-2024/static/js/787.cfca8995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bacc397b.css",
+    "static/js/main.f2cecf76.js"
+  ]
+}
